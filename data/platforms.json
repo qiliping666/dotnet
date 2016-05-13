@@ -140,7 +140,7 @@
 "category":"services",
 "info":"http://go.microsoft.com/fwlink/?LinkID=308920",
 "includedIn":[],
-"supportedBy":["VS2010"],
+"supportedBy":["VS2010"], 
 "tools":[
 {"name":"Visual Studio 2010 SP1 Team Foundation Server Compatibility GDR ","link":"http://go.microsoft.com/fwlink/?LinkID=308924"}]
   },
